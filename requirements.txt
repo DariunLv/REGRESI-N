@@ -1,0 +1,13 @@
+numpy
+pandas
+plotly
+seaborn
+scikit-learn
+streamlit
+streamlit-option-menu
+st-aggrid
+streamlit-card
+pydeck
+streamlit-metrics
+streamlit-echarts
+streamlit-drawable-canvas
